@@ -1,0 +1,17 @@
+E:\c++\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\c++\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\c++\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\c++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\c++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\c++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\c++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\c++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\c++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\c++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\c++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+E:\c++\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+E:\c++\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+E:\c++\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+E:\c++\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+E:\c++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+E:\c++\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
