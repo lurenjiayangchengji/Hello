@@ -1,0 +1,13 @@
+class Solution {
+    public boolean checkString(String s) {
+        for(int i=1;i<s.length();i++){
+            if (s.charAt(i)=='a'){
+                for (int j=0;j<i;j++){
+                    if(s.charAt(j)=='b'){
+                        return false;
+                    }
+                }
+            }
+        }return true;
+    }
+}
